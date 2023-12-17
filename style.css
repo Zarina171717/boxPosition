@@ -52,4 +52,31 @@ body {
   padding: 10px;
   color: white;
   background-color: #e088c0;
+}
+#pinkbox .box .mnbpstn {
+  position: absolute;
+  left: 350px;
+  top: 450px;
+}
+
+#lorempink {
+  padding: 100px 0;
+}
+#lorempink .textbox {
+  width: 700px;
+}
+#lorempink .box {
+  position: relative;
+}
+#lorempink .box .minibox {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+  background-color: #e088c0;
+}
+#lorempink .box .mnbpstn {
+  position: absolute;
+  left: 1250px;
 }/*# sourceMappingURL=style.css.map */
